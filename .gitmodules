@@ -1,0 +1,8 @@
+[submodule "github"]
+	path = github
+	url = git@github.com:veracioux/veracioux
+	branch = master
+[submodule "website"]
+	path = website
+	url = git@github.com:veracioux/website
+	branch = master
